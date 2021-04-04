@@ -1,6 +1,7 @@
 # MySearchProject
+springBoot, jpa, gradle, security 사용한 개인 
 
-현재
+### 현재 기능
 
 시큐리티 사용한 로그인 회원가입 
 

@@ -1,5 +1,5 @@
 # MySearchProject
-springBoot, jpa, gradle, security 사용한 개인 
+springBoot, jpa, gradle, security 사용한 개인 프로젝트
 
 ### 현재 기능
 
